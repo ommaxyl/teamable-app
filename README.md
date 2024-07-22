@@ -1,7 +1,7 @@
 # teamable
 This is a application for managing employees profile.
 
-### To run the tests, execute:
+### To run the tests, execute
 
     npm run test
 
